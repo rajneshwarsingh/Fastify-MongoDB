@@ -1,7 +1,7 @@
 import { FastifyInstance } from 'fastify';
 import { UserController } from '../controllers/user.controller';
 import { authenticate } from '../middleware/auth';
-import { signup, login, update } from '../validators/user.schema'
+import { signup, login, update } from '../validators/user.schema';
 const userController = new UserController();
 
 export default async function userRoutes(fastify: FastifyInstance) {
