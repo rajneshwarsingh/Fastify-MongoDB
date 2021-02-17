@@ -27,7 +27,6 @@ This project covers the following topics:
 - User Sign-Up and Login functionality.
 - HTTP request methods: GET, POST, PUT, PATCH, DELETE.
 - JWT authorization and authentication.
-- Joi validation.
 - Argon2 for password hashing and compare.
 - Helmet for security.
 - ESLint for code linting.
