@@ -11,7 +11,7 @@ This repository demonstrates my skills in building scalable, maintainable, and h
 - Install MongoDB.
 - Create an `.env` file based on the `.env.sample` and update MongoDB credentials.
 - Use an API testing tool like Postman.
-- Import the `NodeJS CRUD.postman_collection.json` file in Postman.
+- Import the `Fastify-MongoDB.postman_collection.json` file in Postman.
 - Run `npm install` to install the necessary node packages.
 
 ## How to Run the Project
